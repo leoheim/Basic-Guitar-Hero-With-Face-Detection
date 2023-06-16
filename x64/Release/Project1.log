@@ -1,0 +1,13 @@
+﻿  Origem.cpp
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(177,22): warning C4244: 'inicializando': conversão de 'int64' para 'double', possível perda de dados
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(183,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(265,32): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(267,29): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(286,41): warning C4244: '=': conversão de 'int64' para 'double', possível perda de dados
+C:\Users\Anna Karina\source\repos\Project1\Project1\Origem.cpp(289,23): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando código
+  0 of 255 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Project1.vcxproj -> C:\Users\Anna Karina\source\repos\Project1\x64\Release\Project1.exe
